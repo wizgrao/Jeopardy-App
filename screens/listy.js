@@ -4,7 +4,6 @@ import {Text} from 'react-native-elements';
 import { List, ListItem } from 'react-native-elements';
 import { TabNavigator, StackNavigator}  from 'react-navigation';
 import styles from '../style.js';
-import AyyLmao from './ayyLmao.js';
 
 export default class Listy extends React.Component {
 

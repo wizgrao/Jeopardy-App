@@ -3,7 +3,6 @@ import { StyleSheet,  View, Alert} from 'react-native';
 import {Button, Text} from 'react-native-elements'
 import { TabNavigator, StackNavigator}  from 'react-navigation';
 import styles from '../style.js';
-import AyyLmao from './ayyLmao.js';
 
 export default class View1 extends React.Component {
 
